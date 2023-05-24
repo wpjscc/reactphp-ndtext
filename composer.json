@@ -1,0 +1,18 @@
+{
+    "name": "wpjscc/reactphp-ndtext",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wpjscc",
+            "email": "wpjscc@gmail.com"
+        }
+    ],
+    "require": {
+        "react/stream": "^1.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Wpjscc\\NDText\\": "src/"
+        }
+    }
+}
